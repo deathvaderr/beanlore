@@ -1,0 +1,8 @@
+{
+  "name": "beanlore-jayanagar",
+  "description": "Premium workspace and specialty coffee house in Jayanagar, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
