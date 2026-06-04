@@ -344,6 +344,9 @@ export default function App() {
                 <span className="font-serif text-[26px] md:text-[36px] font-black tracking-[0.04em] uppercase text-[#1A1A1A] leading-none">
                   BEANLORE
                 </span>
+                <span className="font-mono text-[8px] md:text-[9px] text-stone-400 uppercase tracking-[0.2em] mt-0.5 select-none">
+                  this is a model website
+                </span>
                 <div className="relative mt-0.5" id="header-branch-switcher-container">
                   <button 
                     onClick={(e) => {
